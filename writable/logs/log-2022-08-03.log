@@ -1,0 +1,259 @@
+CRITICAL - 2022-08-03 12:15:52 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:16:30 --> Class 'App\Models\produtosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:16:32 --> Class 'App\Models\produtosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:16:32 --> Class 'App\Models\produtosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:28 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:28 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:28 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:29 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:53 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:54 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:54 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:54 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:54 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:55 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:55 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:55 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:56 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:17:56 --> Class 'App\Models\ProdutosModel' not found
+in APPPATH\Controllers\Produtos.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Produtos->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:26 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:28 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:28 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:28 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:28 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:18:29 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Produtos.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->listar()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:43:52 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:43:53 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:43:53 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:45:14 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:45:17 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:47:40 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('2')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:47:45 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-03 12:48:16 --> Call to undefined function App\Controllers\getProduto()
+in APPPATH\Controllers\ProdutosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->produto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')

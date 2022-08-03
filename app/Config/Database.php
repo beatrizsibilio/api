@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'bancoProdutos',
+        'database' => 'api',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
