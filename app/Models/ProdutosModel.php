@@ -14,8 +14,9 @@ class ProdutosModel extends Model
         return $this->asArray()->where(['id'=>$id])->first(); 
     }
 
-    /*public function getProdutos($limit){
-        $query = $db->query("SELECT * FROM produtos limit".$limit);
-        return $query->getResultArray();
-    }*/
+    public function getProdutos($limit){
+        $query = $this->db->query("SELECT * FROM produtos limit ".$limit);
+        $result = $query->getResultArray();
+        return $result;
+    }
 }

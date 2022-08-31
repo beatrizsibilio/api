@@ -40,6 +40,10 @@ $routes->get('listar', 'ProdutosController::listar');
 $routes->get('produto/(:num)', 'ProdutosController::produto/$1');
 $routes->get('produtos/(:num)', 'ProdutosController::produtos/$1');
 $routes->post('gravar', 'ProdutosController::gravarProduto/$1');
+$routes->get('model/(:num)', 'ProdutosController::produtomodel/$1');
+$routes->delete('delete/(:num)', 'ProdutosController::deletar/$1');
+$routes->put('atualizar/(:segment)', 'ProdutosController::atualizar/$1');
+$routes->patch('atualizar/(:segment)', 'ProdutosController::atualizar/$1');
 
 /*
  * --------------------------------------------------------------------
